@@ -1,8 +1,1 @@
-- ("Hello everybody")
-- {
--  name: Harpal dangar
--  age: 17+
--  country: India
--  Bca student.
--  contact: harpaldangar8@gmail.com
-- }
+
